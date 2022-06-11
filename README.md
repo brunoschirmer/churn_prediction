@@ -2,6 +2,11 @@
 
 ## Detecting TopBank customers' churn probability
 
+<div align="center">
+    <img alt="churn" src="https://images.squarespace-cdn.com/content/v1/588f9607bebafbc786f8c5f8/1607924812500-Y1JR8L6XP5NKF2YPHDUX/image6.png" width="100%" height="300">
+</div>
+
+
 #### This project was made by Bruno Schirmer.
 
 # 1. Business Problem.
